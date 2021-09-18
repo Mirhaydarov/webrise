@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 20px;
+}
+
+body {
+  padding: 1rem;
+  margin: 0 auto !important;
+  line-height: 1.5;
+  font-family: 'ALS Hauss', 'Open Sans', 'Roboto', 'Oxygen', 'Ubuntu',
+    'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+input {
+  font-size: 1rem;
+}
+
+a {
+  display: block;
+  font-size: 0.8rem;
+  font-weight: 700;
+  text-decoration: none;
+}
